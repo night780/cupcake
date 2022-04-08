@@ -1,0 +1,19 @@
+[07-Apr-2022 22:02:44 UTC] PHP Warning:  A non-numeric value encountered in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 33
+[07-Apr-2022 22:02:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 33
+[07-Apr-2022 22:03:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 33
+[07-Apr-2022 22:03:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 34
+[07-Apr-2022 22:03:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 34
+[07-Apr-2022 22:03:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 34
+[07-Apr-2022 22:04:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 28
+[07-Apr-2022 22:05:23 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/jjonasgr/public_html/328-temp/cupcake/process.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 28
+[07-Apr-2022 22:05:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 28
+[07-Apr-2022 22:05:59 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/jjonasgr/public_html/328-temp/cupcake/process.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 28
+[07-Apr-2022 22:06:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 28
+[07-Apr-2022 22:06:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 28
+[07-Apr-2022 22:07:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jjonasgr/public_html/328-temp/cupcake/process.php on line 28
